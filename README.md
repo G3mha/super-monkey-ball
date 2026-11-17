@@ -1,5 +1,7 @@
 # Super Monkey Ball
 
+> Archived course project. Kept for reference.
+
 **This project does not have any financial purpose. It is only purpose is educational.**
 
 ![Super Monkey Ball](./docs/img/superMonkeyBall.jpg)
